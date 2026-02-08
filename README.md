@@ -2,7 +2,7 @@
 
 #para darle permisos al scrip 
 
-chmod +x Scam_pishing
+chmod +x Scam_pishing.sh
 
 #y para ejecutarlo 
 
